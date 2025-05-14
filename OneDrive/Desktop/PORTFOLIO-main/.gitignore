@@ -1,0 +1,20 @@
+# Ignore system files and common junk
+*.log
+*.tmp
+*.lnk
+*.docx
+*.pdf
+*.mp4
+*.jpg
+*.png
+*.ini
+*.DAT*
+*.regtrans-ms
+
+# Ignore VS Code settings
+.vscode/
+
+# Just in case hidden stuff creeps in
+.DS_Store
+Thumbs.db
+desktop.ini
